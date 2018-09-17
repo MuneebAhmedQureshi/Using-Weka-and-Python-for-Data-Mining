@@ -21,17 +21,21 @@ Click on downloaded .exe file to install<br><br>
 
 # Setting Eenvironment Variable for Python
 
+Environment Variables are set so that when we import libraries in our scripts; operating systems knows where to locate those libraries.
 Right Click on My PC<br><br>
 Select Properties<br><br>
 Click on Advanced System Settings<br><br>
 Click on Environment Variables<br><br>
 Under System Variables click New<br><br>
-Set variable name to PYTHON_HOME or whatever you want to use in your program<br><br>
+Set variable name to PYTHON_HOME<br><br>
 Locate python form C:\Users\hp\AppData\Local\Programs\Python\Python36\ replace "hp" with your username
-Set variable value to the <b>full path of Python36 folder</b>
+Set variable value to the <b>full path of Python36 folder</b><br><br>
+Now locate: variable named "path" under system variables<br><br>
+Click "Edit" and at the end of Variable Value add ";%PYTHON_HOME%/"<br><br>
+Make sure you added semi-colon before PYTHON_HOME<br><br>
 Click OK and OK and OK<br><br>
 Now you can check if environment variable is set by running this command in CMD <b>echo %PYTHON_HOME% </b><br><br>
-Now run: python --version to validate successfull installation
+Now run: python --version to validate new environment settings.
 
 # Required Packages
 

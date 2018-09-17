@@ -13,7 +13,7 @@ Sample Code with explanation for generation and graphical representation of <br>
   <li>weka-from-moocs-curves.ipynb</li>
 </ul>
 
-# Installing Anaconda for Python
+# Installing Python IDE
 
 Follow this link and download Python<br>
 <a>https://www.python.org/ftp/python/3.6.4/python-3.6.4-amd64.exe/</a><br>

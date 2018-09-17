@@ -8,9 +8,9 @@ Sample Code with explanation for generation and graphical representation of <br>
 </ul>
 <br>is given in: <br><br>
 <ul>
-  <li>weka-from-moocs.ipynb</li>
-  <li>weka-from-moocs-graphs.ipynb</li>
-  <li>weka-from-moocs-curves.ipynb</li>
+  <li>weka-from-moocs.py</li>
+  <li>weka-from-moocs-graphs.py</li>
+  <li>weka-from-moocs-curves.py</li>
 </ul>
 
 # Installing Python IDE

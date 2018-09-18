@@ -49,22 +49,23 @@ To invoke Weka from Python these packages are required<br>
   <li>Javabridge</li>
   <li>Python Weka Wrapper</li>
 </ul><br>
-These packages come preinstalled in Python<br>
-<ul>
-  <li>Pip</li>
-  <li>Numpy</li>
-  <li>Matplotlib</li>
-</ul><br>
-These packages are to be installed by user<br>
-<ul>
-  <li>Javabridge</li>
-  <li>Python-weka-wrapper</li>
-</ul><br>
 
 # Installing Required Setup Tools for Python
 
 Press <b>Ctrl+R</b> write <b>cmd</b> and press <b>Enter</b> <br><br>
 Run <b>python -m pip install --upgrade pip setuptools wheel</b><br><br>
+PIP setup tools will be updated.
+
+# Installing Matplotlib
+
+Press <b>Ctrl+R</b> write <b>cmd</b> and press <b>Enter</b> <br><br>
+Run <b>python -m pip install matplotlib</b><br><br>
+PIP setup tools will be updated.
+
+# Installing Pygraphviz
+
+Press <b>Ctrl+R</b> write <b>cmd</b> and press <b>Enter</b> <br><br>
+Run <b>python -m pip install pygraphviz</b><br><br>
 PIP setup tools will be updated.
 
 # Installing Javabridge on Windows

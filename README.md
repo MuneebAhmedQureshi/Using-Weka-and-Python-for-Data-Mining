@@ -76,11 +76,11 @@ Now try installing javabridge again, hopefully it will be installed.<br><br>
 
 # Installing Python Weka Wrapper
 
-For Python-2<br><br>
-Run: python -m pip install python-weka-wrapper<br><br>
-For this version of Python which we are using: Python-3.6.4<br><br>
-Run: python -m pip install python-weka-wrapper3<br><br>
-Weka Library and Python are now successfully installed<br><br>
+For Python-2 and below<br><br>
+Run <b>python -m pip install python-weka-wrapper</b><br><br>
+For thie version of Python which we are using: Python-3.6.4 and above<br><br>
+Run <b>python -m pip install python-weka-wrapper3</b><br><br>
+Weka Library is now successfully installed<br><br>
 
 # Setting Environment Variable MOOC_DATA
 

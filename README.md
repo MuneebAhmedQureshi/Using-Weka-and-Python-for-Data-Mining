@@ -62,10 +62,6 @@ PIP setup tools will be updated.
 
 Run <b>python -m pip install matplotlib</b><br><br>
 
-# Installing Pygraphviz
-
-Run <b>python -m pip install pygraphviz</b><br><br>
-
 # Installing Javabridge
 
 Run <b>python -m pip install javabridge</b><br><br>

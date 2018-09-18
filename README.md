@@ -19,7 +19,7 @@ Follow this link and download Python<br>
 <a>https://www.python.org/ftp/python/3.6.4/python-3.6.4-amd64.exe/</a><br>
 Click on downloaded .exe file to install<br><br>
 
-# Setting Eenvironment Variable for Python
+# Setting Environment Variable for Python
 
 Environment Variables are set so that when we import libraries in our scripts; operating system knows where to locate those libraries.<br><br>
 Right Click on My PC<br><br>
@@ -90,9 +90,9 @@ For this version of Python which we are using: Python-3.6.4<br><br>
 Run: python -m pip install python-weka-wrapper3<br><br>
 Weka Library and Python are now successfully installed<br><br>
 
-# Setting Environment Variable MOOC_DATA on Windows 7
+# Setting Environment Variable MOOC_DATA
 
-It is set just for understanding purpose, you can access files directly also.
+It is set just for understanding purpose, you can access files directly also.<br><br>
 Set a new Environment Variable <br><br>
 Set variable name to MOOC_DATA or whatever you want to use in your program<br><br>
 Set variable value to the <b>full path of folder where you have stored weka datasets</b> e.g C:\Users\hp\Documents\WekaDatasets\ <br><br>

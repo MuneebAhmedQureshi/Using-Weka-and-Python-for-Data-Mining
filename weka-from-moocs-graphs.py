@@ -61,9 +61,8 @@ jvm.start(packages=True)
 
 # In[8]:
 
-
-data = conv.load_any_file(str(os.environ.get("MOOC_DATA"))+os.sep+"bodyfat.arff")
-# or change it to data = conv.load_any_file("bodyfat.arff") if your code and dataset are in same folder
+#make sure your code and dataset are in same fodler
+data = conv.load_any_file("bodyfat.arff")
 
 # ###### Setting last attribute of data as the class label
 

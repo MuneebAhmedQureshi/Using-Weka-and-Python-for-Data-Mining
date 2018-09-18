@@ -33,7 +33,7 @@ from weka.classifiers import Evaluation, Classifier
 from weka.core.classes import Random
 
 
-# ###### Import os to use Operating System's Environment Variable "MOOC_DATA" 
+# ###### Import os to use Operating System's Environment Variables whenever required 
 
 # In[5]:
 
@@ -53,7 +53,7 @@ jvm.start(packages=True)
 
 # In[7]:
 
-#make sure your code and dataset are in same fodler
+#make sure your code and dataset are in same folder
 data = conv.load_any_file("anneal.arff")
 
 # ###### Setting last attribute of data as the class label

@@ -21,7 +21,7 @@ Click on downloaded .exe file to install<br><br>
 
 # Setting Eenvironment Variable for Python
 
-Environment Variables are set so that when we import libraries in our scripts; operating systems knows where to locate those libraries.
+Environment Variables are set so that when we import libraries in our scripts; operating system knows where to locate those libraries.<br><br>
 Right Click on My PC<br><br>
 Select Properties<br><br>
 Click on Advanced System Settings<br><br>
@@ -53,6 +53,8 @@ To invoke Weka from Python these packages are required<br>
 # Installing Required Setup Tools for Python
 
 Press <b>Ctrl+R</b> write <b>cmd</b> and press <b>Enter</b> <br><br>
+Run <b>python --verison</b> to check if python is properly installed<br><br>
+Now,<br><br>
 Run <b>python -m pip install --upgrade pip setuptools wheel</b><br><br>
 PIP setup tools will be updated.
 
@@ -68,10 +70,8 @@ Press <b>Ctrl+R</b> write <b>cmd</b> and press <b>Enter</b> <br><br>
 Run <b>python -m pip install pygraphviz</b><br><br>
 PIP setup tools will be updated.
 
-# Installing Javabridge on Windows
+# Installing Javabridge
 
-Press <b>Ctrl+R</b> write <b>cmd</b> and press <b>Enter</b> <br><br>
-Run <b>python --verison</b> to check if python is properly installed<br><br>
 Run <b>python -m pip install javabridge</b><br><br>
 If it returns error:<br><br>
 <ul>
@@ -93,11 +93,7 @@ Weka Library and Python are now successfully installed<br><br>
 # Setting Environment Variable MOOC_DATA on Windows 7
 
 It is set just for understanding purpose, you can access files directly also.
-Right Click on My PC<br><br>
-Select Properties<br><br>
-Click on Advanced System Settings<br><br>
-Click on Environment Variables<br><br>
-Under System Variables click New<br><br>
+Set a new Environment Variable <br><br>
 Set variable name to MOOC_DATA or whatever you want to use in your program<br><br>
 Set variable value to the <b>full path of folder where you have stored weka datasets</b> e.g C:\Users\hp\Documents\WekaDatasets\ <br><br>
 Click OK and OK and OK<br><br>

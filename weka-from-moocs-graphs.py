@@ -41,7 +41,7 @@ from weka.core.classes import Random
 import weka.plot.classifiers as plcls
 
 
-# ###### Import os to use Operating System's Environment Variable "MOOC_DATA" 
+# ###### Import os to use Operating System's Environment Variables whenever required 
 
 # In[6]:
 
@@ -61,7 +61,7 @@ jvm.start(packages=True)
 
 # In[8]:
 
-#make sure your code and dataset are in same fodler
+#make sure your code and dataset are in same folder
 data = conv.load_any_file("bodyfat.arff")
 
 # ###### Setting last attribute of data as the class label

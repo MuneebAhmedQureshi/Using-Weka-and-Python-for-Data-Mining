@@ -60,15 +60,11 @@ PIP setup tools will be updated.
 
 # Installing Matplotlib
 
-Press <b>Ctrl+R</b> write <b>cmd</b> and press <b>Enter</b> <br><br>
 Run <b>python -m pip install matplotlib</b><br><br>
-PIP setup tools will be updated.
 
 # Installing Pygraphviz
 
-Press <b>Ctrl+R</b> write <b>cmd</b> and press <b>Enter</b> <br><br>
 Run <b>python -m pip install pygraphviz</b><br><br>
-PIP setup tools will be updated.
 
 # Installing Javabridge
 

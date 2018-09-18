@@ -28,7 +28,7 @@ Click on Advanced System Settings<br><br>
 Click on Environment Variables<br><br>
 Under System Variables click New<br><br>
 Set variable name to PYTHON_HOME<br><br>
-Locate python form C:\Users\hp\AppData\Local\Programs\Python\Python36\ replace "hp" with your username
+Locate python form C:\Users\hp\AppData\Local\Programs\Python\Python36\ replace "hp" with your username<br><br>
 Set variable value to the <b>full path of Python36 folder</b><br><br>
 Now locate: variable named "path" under system variables<br><br>
 Click "Edit" and at the end of Variable Value add ";%PYTHON_HOME%/"<br><br>

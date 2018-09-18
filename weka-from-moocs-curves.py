@@ -41,7 +41,7 @@ from weka.core.classes import Random
 import weka.plot.classifiers as plcls
 
 
-# ###### Import os to use Operating System's Environment Variable "MOOC_DATA" 
+# ###### Import os to use Operating System's Environment Variables whenever required 
 
 # In[6]:
 
@@ -61,9 +61,8 @@ jvm.start(packages=True)
 
 # In[8]:
 
-
-data = conv.load_any_file(str(os.environ.get("MOOC_DATA"))+os.sep+"balance-scale.arff")
-# or change it to data = conv.load_any_file("balance-scale.arff") if your code and dataset are in same folder
+#make sure your code and dataset are in same folder
+data = conv.load_any_file("balance-scale.arff")
 
 # ###### Setting last attribute of data as the class label
 

@@ -82,16 +82,6 @@ For thie version of Python which we are using: Python-3.6.4 and above<br><br>
 Run <b>python -m pip install python-weka-wrapper3</b><br><br>
 Weka Library is now successfully installed<br><br>
 
-# Setting Environment Variable MOOC_DATA
-
-It is set just for understanding purpose, you can access files directly also.<br><br>
-Set a new Environment Variable <br><br>
-Set variable name to MOOC_DATA or whatever you want to use in your program<br><br>
-Set variable value to the <b>full path of folder where you have stored weka datasets</b> e.g C:\Users\hp\Documents\WekaDatasets\ <br><br>
-Click OK and OK and OK<br><br>
-Now you can check if environment variable is set by running this command in CMD <b>echo %MOOC_DATA% </b><br><br>
-<b>Everything is set and ready to be executed</b>
-
 # Provided Helping Material 
 
 As explained in WekaMOOCS Official channel's demonstaration<br><br>

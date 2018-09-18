@@ -55,7 +55,7 @@ jvm.start(packages=True)
 
 
 data = conv.load_any_file(str(os.environ.get("MOOC_DATA"))+os.sep+"anneal.arff")
-
+# or change it to data = conv.load_any_file("anneal.arff") if your code and dataset are in same folder
 
 # ###### Setting last attribute of data as the class label
 

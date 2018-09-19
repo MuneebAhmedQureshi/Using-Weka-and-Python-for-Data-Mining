@@ -52,7 +52,7 @@ To invoke Weka from Python these packages are required<br>
 
 # Installing Required PIP Setup Tools for Python
 
-Press <b>Ctrl+R</b> write <b>cmd</b> and press <b>Enter</b> <br><br>
+Press <b>WINDOW+R</b> write <b>cmd</b> and press <b>Enter</b> <br><br>
 Run <b>python --verison</b> to check if python is properly installed<br><br>
 Now,<br><br>
 Run <b>python -m pip install --upgrade pip setuptools wheel</b><br><br>

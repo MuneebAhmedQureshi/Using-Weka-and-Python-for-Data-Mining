@@ -42,15 +42,15 @@ Now run: python --version to validate new environment settings.
 To invoke Weka from Python these packages are required<br>
 <ul>
   <li>Pip</li>
-  <li>Numpy</li>
-  <li>Imaging (Optional)</li>
+  <li>Numpy (comes preinstalled)</li>
+  <li>Imaging</li>
   <li>Matplotlib</li>
-  <li>Pygraphviz(Optional)</li>
+  <li>Pygraphviz</li>
   <li>Javabridge</li>
   <li>Python Weka Wrapper</li>
 </ul><br>
 
-# Installing Required Setup Tools for Python
+# Installing Required PIP Setup Tools for Python
 
 Press <b>Ctrl+R</b> write <b>cmd</b> and press <b>Enter</b> <br><br>
 Run <b>python --verison</b> to check if python is properly installed<br><br>
@@ -58,9 +58,14 @@ Now,<br><br>
 Run <b>python -m pip install --upgrade pip setuptools wheel</b><br><br>
 PIP setup tools will be updated.
 
-# Installing Matplotlib
+# Installing Imaging
+Run <b>python -m pip install pillow</b><br><br>
 
+# Installing Matplotlib
 Run <b>python -m pip install matplotlib</b><br><br>
+
+# Installing Pygraphviz
+Errors not resolved yet
 
 # Installing Javabridge
 

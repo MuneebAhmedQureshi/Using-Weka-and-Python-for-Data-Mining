@@ -93,11 +93,12 @@ Click the green colored <b>Clone or download</b> button on top right corner of t
 Click <b>Download Zip</b><br><br>
 Extract the downloaded .zip file<br><br>
 Navigate to the extracted folder<br><br>
-Press Shift and Righ Click simultaneously<br>br>
+Press Shift and Righ Click simultaneously<br><br>
 Select <b>Open command window here</b><br><br>
 Write <b>python weka-from-moocs-curves.py</b> and press enter<br><br>
-It will output the ROC curve in a new window<br><br>
+Wait till it loads the libraries: It will output the ROC curve in a new window<br><br>
 Similarly, you can run and check output of other files by writing <b>python filename.py</b>
+
 # Provided Helping Material 
 
 As explained in WekaMOOCS Official channel's demonstaration<br><br>

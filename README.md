@@ -15,7 +15,7 @@ Sample Code with explanation for generation and graphical representation of <br>
 
 # Installing Python IDE
 
-Follow this link, go to the end of page and download Python for 32 or 64 bit as per your Windows Version<br>
+Follow this link, scroll to the end of page and download Python for 32 or 64 bit as per your Windows Version<br>
 <a>https://www.python.org/downloads/release/python-364/</a><br>
 Click on downloaded .exe file to install<br><br>
 

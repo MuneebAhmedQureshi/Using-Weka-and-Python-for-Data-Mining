@@ -81,9 +81,9 @@ Now try installing javabridge again, hopefully it will be installed.<br><br>
 
 # Installing Python Weka Wrapper
 
-For Python-2 and below<br><br>
+For Python Versions 2.* and below<br><br>
 Run <b>python -m pip install python-weka-wrapper</b><br><br>
-For thie version of Python which we are using: Python-3.6.4 and above<br><br>
+For Python Versions 3.* and above (e.g we are using Python Version 3.6.4)<br><br>
 Run <b>python -m pip install python-weka-wrapper3</b><br><br>
 Weka Library is now successfully installed<br><br>
 

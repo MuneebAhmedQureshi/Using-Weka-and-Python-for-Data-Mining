@@ -15,8 +15,8 @@ Sample Code with explanation for generation and graphical representation of <br>
 
 # Installing Python IDE
 
-Follow this link and download Python<br>
-<a>https://www.python.org/ftp/python/3.6.4/python-3.6.4-amd64.exe/</a><br>
+Follow this link and download Python for 32 or 64 bit as per your Windows Version<br>
+<a>https://www.python.org/downloads/release/python-364/</a><br>
 Click on downloaded .exe file to install<br><br>
 
 # Setting Environment Variable for Python

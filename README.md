@@ -93,7 +93,7 @@ Click the green colored <b>Clone or download</b> button on top right corner of t
 Click <b>Download Zip</b><br><br>
 Extract the downloaded .zip file<br><br>
 Navigate to the extracted folder<br><br>
-Press Shift and Righ Click simultaneously<br><br>
+Press Shift and Right Click simultaneously<br><br>
 Select <b>Open command window here</b><br><br>
 Write <b>python weka-from-moocs-curves.py</b> and press enter<br><br>
 Wait till it loads the libraries: It will output the ROC curve in a new window<br><br>
@@ -106,3 +106,6 @@ https://www.youtube.com/watch?v=YT72KkkfD3w<br><br>
 Python codes used in this video are provided.<br><br>
 Datasets used in this video are also provided.<br><br>
 
+# Copyright Statement
+
+These scripts are just for learning purposes. Kindly don't copy and paste same code and files in your assignment as you won't be the only genius.

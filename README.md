@@ -65,7 +65,9 @@ Run <b>python -m pip install pillow</b><br><br>
 Run <b>python -m pip install matplotlib</b><br><br>
 
 # Installing Pygraphviz
-Errors not resolved yet
+Errors not resolved yet<br><br>
+But for now, you can use Graphviz<br><br>
+Run <b>python -m pip install graphviz</b>
 
 # Installing Javabridge
 
